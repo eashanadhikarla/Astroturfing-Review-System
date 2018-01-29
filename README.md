@@ -22,7 +22,7 @@ Using a separate dataset, I am trying to analyze reviewers that were caught soli
 * 'CountVectorizer()' for extracting features from text in numerical form
 * 'Multinomial Naive Bayes for importing naive bayes multinomial method classifier
 
-### Approach -
+### Approach:
 
 a.) Import the datasets and store the data in three columns: **Polarity of the review | Review itself | True or Deceptive as _('t' or 'd')_**.
 
