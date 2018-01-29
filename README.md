@@ -15,17 +15,17 @@ This is a filtering model with machine learning algorithm to filter-out the fake
 * 'CountVectorizer()' for extracting features from text in numerical form
 * 'Multinomial Naive Bayes for importing naive bayes multinomial method classifier
 
-#### Steps -
+### Steps -
 
-1: Import the datasets and store the data in three columns: **Polarity of the review | Review itself | True or Deceptive as ('t' or 'd')**.
+a.) Import the datasets and store the data in three columns: **Polarity of the review | Review itself | True or Deceptive as _('t' or 'd')_**.
 
-2: Converting 't' to 1 and 'd' to 0 because I will be using this as my target value and the review as my feature.
+b.) Converting **'t'** to **1** and **'d'** to **0** because I will be using this as my target value and the review as my feature.
 
-3: Splitting the Review data into testing data and training data (0.3 and 0.7 respectively).
+c.) Splitting the Review data into testing data and training data (0.3 and 0.7 respectively).
 
-4: Using CountVectorizer() to extract numeric features of each of the review as classifier can only use numeric data to compute something.
+d.) Using CountVectorizer() to extract numeric features of each of the review as classifier can only use numeric data to compute something.
 
-5: Using Multinomial Naive Bias method classifier to classify the reviews as Deceptive/True.
+e.) Using Multinomial Naive Bias method classifier to classify the reviews as _Deceptive/True_.
 
 ### Datasets: 
 * http://myleott.com/op_spam/
