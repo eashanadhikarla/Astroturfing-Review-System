@@ -36,9 +36,9 @@ d.) Using **CountVectorizer()** to extract numeric features of each of the revie
 e.) Using Multinomial Naive Bias method classifier to classify the reviews as _Deceptive/True_.
 
 ### Datasets: 
-* http://myleott.com/op_spam/
-* https://www.kaggle.com/bittlingmayer/amazonreviews
+* Yelp   - http://myleott.com/op_spam/
+* Amazon - https://www.kaggle.com/bittlingmayer/amazonreviews
 
 ### Licensing:
 
-Unless otherwise stated, the source code and trained Python model files are copyright and licensed under the MIT License(https://github.com/eashanadhikarla/Astroturfing-Review-System/blob/master/LICENSE). Portions from the following third party sources have been modified and are included in this repository. 
+Unless otherwise stated, the source code and trained Python model files are copyright and licensed under the [MIT License](https://github.com/eashanadhikarla/Astroturfing-Review-System/blob/master/LICENSE). Portions from the following third party sources have been modified and are included in this repository. 
