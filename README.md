@@ -41,4 +41,4 @@ e.) Using Multinomial Naive Bias method classifier to classify the reviews as _D
 
 ### Licensing:
 
-Unless otherwise stated, the source code and trained Python model files are copyright and licensed under the Apache 2.0 License(Astroturfing-Review-System/LICENSE). Portions from the following third party sources have been modified and are included in this repository. 
+Unless otherwise stated, the source code and trained Python model files are copyright and licensed under the MIT License(https://github.com/eashanadhikarla/Astroturfing-Review-System/blob/master/LICENSE). Portions from the following third party sources have been modified and are included in this repository. 
