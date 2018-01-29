@@ -1,4 +1,4 @@
-# Astroturfing-Review-System (http://www.digitalstrategyconsulting.com/netimperative/news/fake%20reviews.jpg)
+# Astroturfing-Review-System ![alt text](http://www.digitalstrategyconsulting.com/netimperative/news/fake%20reviews.jpg)
 
 Created By : **Eashan Adhikarla**
 
