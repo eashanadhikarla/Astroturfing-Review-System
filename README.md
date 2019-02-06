@@ -1,9 +1,8 @@
 # Astroturfing-Review-System
 
-![alt text](http://www.digitalstrategyconsulting.com/netimperative/news/fake%20reviews.jpg)
+   ![alt text](http://www.digitalstrategyconsulting.com/netimperative/news/fake%20reviews.jpg)
 
-**Created By : Eashan Adhikarla
-| Date       : November 2015**
+**Created By : Eashan Adhikarla**
 
 This is a filtering model with customized machine learning algorithm to filter-out the fake reviews and hence the fake reviewers from committing review frauds. I used amazon reviews data sets to built a stochastic model on top of it.
 
@@ -19,9 +18,9 @@ Using a separate dataset, I am trying to analyze reviewers that were caught soli
 * sklearn and scipy
 * pandas and numpy
 
-## Approaches Used :
+## Approaches Used:
 
-### Method 1 : 
+### Method 1: 
 
 * Sentiment Analysis
 * Coontent Similarity
@@ -124,7 +123,7 @@ tfidf_matrix = tfidf_vectorizer.fit_transform(reviews)
             # i+k is to get the review id of the review
 ```
 
-### Method 2 : 
+### Method 2: 
 
 1. Import the datasets and store the data in three columns: **Polarity of the review | Review itself | True or Deceptive as _('t' or 'd')_**.
 
