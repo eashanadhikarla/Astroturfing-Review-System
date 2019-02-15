@@ -23,7 +23,7 @@ Using a separate dataset, I am trying to analyze reviewers that were caught soli
 ### Method 1: 
 
 * Sentiment Analysis
-* Coontent Similarity
+* Content Similarity
 * Latent Symantic Analysis
 
 ### Sentimental Analysis
